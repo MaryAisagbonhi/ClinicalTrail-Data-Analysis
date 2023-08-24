@@ -1,1 +1,1 @@
-# ClinicalTrail-Data-Analysis
+This project explores clinical trial studies data to gain useful insights from the data. The analysis was carried out on the Databricks enviroment where three implementations were done using PySpark RDD, PySpark Dataframe and Spark SQL. This was to explore and compare different approaches in Big Data tools. 
